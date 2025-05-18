@@ -105,8 +105,8 @@
     }
 
     .instagram-logo {
-      width: 90px;
-      height: 90px;
+      width: 70px;
+      height: 70px;
       position: absolute;
       bottom: -60px;
       left: 15px;
